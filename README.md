@@ -21,10 +21,10 @@
 ### Other accounts:
 
 <div id="badges">
-  <a href="https://vk.com/aniime_guy" >
+  <a href="https://vk.com/shayahmett" >
     <img src="https://img.icons8.com/?size=512&id=13977&format=png"width="40" height="40"/>
   </a>
-  <a href="https://t.me/Ilham06">
+  <a href="https://t.me/MountainDewwX">
     <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
   </a> 
   <a href="https://discord.com/channels/1019531122239094794/1019531122239094801">
