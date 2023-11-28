@@ -16,6 +16,7 @@
 
 ![](https://github.com/MountainDeWX15/English-Learning-/blob/main/screen2.png?raw=true)
 
+---
 
 ### Other accounts:
 
